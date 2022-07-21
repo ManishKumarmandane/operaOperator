@@ -20,6 +20,7 @@ public class Andornot
         System.out.println(g);
         boolean h=false;
         System.out.println(!h);
+        System.out.println("git");
 
     }
 }
